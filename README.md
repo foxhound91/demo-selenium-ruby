@@ -1,2 +1,2 @@
 # demo-selenium-ruby
-Demo project testing Selenium on Ruby with Cucumber
+Demo project to test Google UI with Selenium and Cucumber on Ruby implementing Page Object Pattern
